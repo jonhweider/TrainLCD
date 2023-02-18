@@ -68,4 +68,4 @@ If you like this project, Join our Discord community!
 
 ## Related project
 
-[StationAPI](https://github.com/TinyKitten/StationAPI)
+[StationAPI](https://github.com/jonhweider/TrainStationAPI)
